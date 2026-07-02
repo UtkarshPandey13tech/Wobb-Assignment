@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) to view the app.
+Open https://wobb-assignment-sooty.vercel.app/ to view the app.
 
 ## What's Included
 
